@@ -1,4 +1,4 @@
-# Основы машинного обучения с библиотекой Scikit-learn - базовые примеры
+# Основы машинного обучения с библиотекой Scikit-learn 
 
 ## Описание
 
@@ -107,3 +107,4 @@ print(classification_report(y_test, y_pred))
 - [Официальная документация Scikit-learn](https://scikit-learn.org/)
 - [Machine Learning для биомедицинских данных](https://github.com/TAUforPython/BioMedAI)
 - [Руководство по машинному обучению для цифрового здравоохранения](https://pubmed.ncbi.nlm.nih.gov/29852952/)
+- [Видео канал про ИИ в медицине, математика ИИ и немного Science Life-hack](https://rutube.ru/channel/38172356/)
